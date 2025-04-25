@@ -58,8 +58,7 @@ When a user uploads an image:
 
 ## 🚀 Gradio Demo
 
-**Live Link (active for 72 hours):**  
-*Insert your Gradio link here*
+**Live Link (active for 72 hours):**  https://87bb851f3b2bcb76f4.gradio.live/
 
 ---
 
