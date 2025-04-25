@@ -1,0 +1,4 @@
+transformers
+gradio
+ollama
+langchain-community
