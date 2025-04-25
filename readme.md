@@ -79,5 +79,3 @@ When a user uploads an image:
    ```
 
 ---
-
-Let me know if you want to add a diagram, Docker setup, or screenshots next!
